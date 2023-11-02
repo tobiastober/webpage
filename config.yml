@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+baseURL: "www.tobiastober.com" 
+title: Dr. Tobias Tober
 paginate: 20
 theme: PaperMod
 
@@ -20,14 +20,10 @@ menu:
         - name: Data
           url: data/
           weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
-    author: Name
+    description: "I am a postdoctoral researcher in political science at the University of Konstanz and a member of the Konstanz Cluster of Excellence 'The Politics of Inequality'. My work investigates the implications of large-scale structural changes such as European integration, globalization, technological change, and climate change from a Comparative Political Economy perspective. I am particularly dedicated to understanding how these structural transformations affect the political economy of the welfare state, both in terms of popular preferences and public policies. Yet, my research in this area has also covered areas like income inequality, business interests, and subjective well-being. In addition, I have a keen interest in applied quantitative methods and Bayesian statistics. While these are my empirical weapons of choice, I have published qualitative research as well. My work has appeared in journals like Comparative Political Studies, the Journal of Politics, and the Socio-Economic Review."
+    author: Tobias Tober
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -50,12 +46,12 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
-          imageUrl: "picture.jpeg"
+          title: Dr. Tobias Tober
+          subtitle: "I am a postdoctoral researcher in political science at the University of Konstanz and a member of the Konstanz Cluster of Excellence 'The Politics of Inequality'. My work investigates the implications of large-scale structural changes such as European integration, globalization, technological change, and climate change from a Comparative Political Economy perspective. I am particularly dedicated to understanding how these structural transformations affect the political economy of the welfare state, both in terms of popular preferences and public policies. Yet, my research in this area has also covered areas like income inequality, business interests, and subjective well-being. In addition, I have a keen interest in applied quantitative methods and Bayesian statistics. While these are my empirical weapons of choice, I have published qualitative research as well. My work has appeared in journals like Comparative Political Studies, the Journal of Politics, and the Socio-Economic Review."
+          imageUrl: "pic.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Dr. Tobias Tober
           buttons:
             - name: Papers
               url: papers/
@@ -63,8 +59,6 @@ consequat."
               url: courses/
             - name: Data
               url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
             - name: Tags
               url: tags/
             - name: Archive
@@ -73,21 +67,17 @@ consequat."
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:tobias.tober@uni-konstanz.de
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://scholar.google.de/citations?user=LTQCyPoAAAAJ&hl=de
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: 
         - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://twitter.com/TobiasFTober
 
     assets:
         disableHLJS: true
