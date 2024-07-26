@@ -2,64 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pascalmichaillat.org/hugo-website/data/</loc>
+    <loc>/tags/educational-divide/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/eu-support/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/paper10/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/european-integration/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/paper9/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/income/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/technological-change/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/technostress/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/welfare-state-contexts/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/data/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/data/data1/</loc>
+    <loc>/data/data1/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-10/</loc>
+    <loc>/tags/keyword-10/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-5/</loc>
+    <loc>/tags/keyword-5/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-6/</loc>
+    <loc>/tags/keyword-6/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-7/</loc>
+    <loc>/tags/keyword-7/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+    <loc>/tags/business-interests/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+    <loc>/tags/emu/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/courses/course1/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <loc>/tags/exports/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/courses/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <loc>/tags/germany/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-1/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <loc>/publications/paper8/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-2/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <loc>/publications/paper7/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-3/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <loc>/tags/social-policy-preferences/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/courses/course2/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+    <loc>/tags/welfare-state-context/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-4/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+    <loc>/publications/paper6/</loc>
+    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/papers/paper2/</loc>
+    <loc>/publications/paper5/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/wages/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/paper4/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/inequality/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/trade-unions/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/paper3/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/policy-responsiveness/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/social-spending/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/paper2/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/electoral-system/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/government-control/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/replication/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/paper1/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/papers/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <loc>/archive/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/papers/paper1/</loc>
-    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+    <loc>/location/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/archive/</loc>
+    <loc>/officehours/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/location/</loc>
-  </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/officehours/</loc>
+    <loc>/teaching/</loc>
   </url>
 </urlset>
