@@ -79,7 +79,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Tobias Tober"
-      icon: /pic.jpg
+      icon: pic.jpg
       iconHeight: 35
 
 markup:
