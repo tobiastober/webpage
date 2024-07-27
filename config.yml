@@ -19,7 +19,7 @@ menu:
           weight: 2
 
 params:
-    description: "I am a postdoctoral researcher in political science at the University of Konstanz. I am a member of the Department of Politics and Public Administration, the Cluster of Excellence *The Politics of Inequality*, and a ZENiT Fellow at the *Zukunftskolleg* (Institute for Advanced Studies). My work investigates the political implications of large-scale structural changes such as European integration, globalization, technological change, and climate change from a comparative perspective. I am particularly dedicated to understanding how these structural transformations affect the political economy of the welfare state, both in terms of demand and supply. My research in this area has also covered areas like income inequality, business interests, and subjective well-being. In addition, I have a keen interest in applied quantitative methods and Bayesian statistics. My work has appeared in journals like the *British Journal of Political Science*, *Comparative Political Studies*, and the *Journal of Politics*."
+    description: "I am a postdoctoral researcher in political science at the University of Konstanz. I am a member of the Department of Politics and Public Administration, the Cluster of Excellence The Politics of Inequality, and a ZENiT Fellow at the Zukunftskolleg (Institute for Advanced Studies)."
     author: Tobias Tober
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
