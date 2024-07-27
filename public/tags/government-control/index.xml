@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>government control on Tobias Tober</title>
-    <link>/tags/government-control/</link>
+    <link>https://tobiastober.com/tags/government-control/</link>
     <description>Recent content in government control on Tobias Tober</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/government-control/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://tobiastober.com/tags/government-control/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Electoral Rules and Partisan Control of Government: A Replication Study</title>
-      <link>/publications/paper2/</link>
+      <link>https://tobiastober.com/publications/paper2/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publications/paper2/</guid>
+      <guid>https://tobiastober.com/publications/paper2/</guid>
       <description>Published in Journal of Politics</description>
     </item>
     
