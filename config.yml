@@ -1,4 +1,4 @@
-xbaseURL: "https://tobiastober.com" 
+baseURL: "https://tobiastober.com" 
 title: Tobias Tober
 paginate: 20
 theme: PaperMod
