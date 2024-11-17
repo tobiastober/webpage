@@ -70,6 +70,9 @@ params:
           url: https://www.researchgate.net/profile/Tobias-Tober
         - name: Twitter
           url: https://twitter.com/TobiasFTober
+        - name: Bluesky
+          url: https://bsky.app/profile/tobiastober.bsky.social
+
 
     assets:
         disableHLJS: true
